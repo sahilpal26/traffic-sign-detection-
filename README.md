@@ -1,0 +1,1 @@
+This project focuses on building an intelligent system that can detect and classify traffic signs from images using Machine Learning and Deep Learning techniques. The goal is to enhance road safety by helping autonomous vehicles and driver-assistance systems understand traffic environments.
